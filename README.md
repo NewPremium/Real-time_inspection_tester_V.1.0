@@ -7,7 +7,10 @@
 
 ### 이전 버전
 
-[Real-time_inspection_tester_V.Alpha](https://github.com/NewPremium/Real-time_inspection_tester_V.Alpha) - 동일한 개발자입니다.
+[Real-time_inspection_tester_V.Alpha](https://github.com/NewPremium/Real-time_inspection_tester_V.Alpha)
+
+### 다음 버전
+[Real-time_inspection_tester_V.2.0](https://github.com/NewPremium/Real-time_inspection_tester_V.2.0)
 
 ### LICENSE
 
